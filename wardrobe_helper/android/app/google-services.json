@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "25566270714",
+    "project_id": "closetmate-f0605",
+    "storage_bucket": "closetmate-f0605.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25566270714:android:fc3b93722624a947dd6543",
+        "android_client_info": {
+          "package_name": "com.example.wardrobe_helper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25566270714-sd7lommtq1ouldcvekgmtrfa63brils4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPC_9nGcMU3f-k5R1xmDMTqEpEeKZzn3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25566270714-sd7lommtq1ouldcvekgmtrfa63brils4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "25566270714-mh568gmndmj4lolp6q06v386g6vrhb5n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wardrobeHelper"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

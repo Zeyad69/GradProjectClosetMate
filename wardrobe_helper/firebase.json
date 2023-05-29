@@ -1,0 +1,6 @@
+{
+  "firestore": {
+    "rules": "wardobe_helper",
+    "indexes": "cancel"
+  }
+}
